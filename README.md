@@ -1,5 +1,5 @@
 # gatling-test
-Sample gatling load test for Kumparan website
+Simple gatling load test for Kumparan endpoints
 
 ***API Performance/Load testing:***
 1. Load testing hit page pilpres
