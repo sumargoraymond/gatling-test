@@ -23,7 +23,7 @@ Choose a simulation number:
 
 ***1. Sample execution of test***
 
-![Sample Execution](https://im2.ezgif.com/tmp/ezgif-2-d5234454200a.gif)
+![Sample Execution](https://github.com/sumargoraymond/gatling-test/blob/master/demo/loadtest720gif.gif)
 
 ***2. Sample report of test***
 ![Sample Report](https://github.com/sumargoraymond/gatling-test/blob/master/demo/sampleResult.png)
