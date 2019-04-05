@@ -18,3 +18,13 @@ Choose a simulation number:
  ```
 3. Notes: Tests for login FB and Google require currently active token & since it's a security feat from Google & FB, I need to obtain it manually and change when it is already expired.
 4. Report will be available under `reports` folder
+
+# Demo
+
+***1. Sample execution of test***
+
+![Sample Execution](https://im2.ezgif.com/tmp/ezgif-2-d5234454200a.gif)
+
+***2. Sample report of test***
+![Sample Report](https://github.com/sumargoraymond/gatling-test/blob/master/demo/sampleResult.png)
+
