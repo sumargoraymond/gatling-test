@@ -28,4 +28,5 @@ Choose a simulation number:
 ***2. Sample report of test***
 ![Sample Report](https://github.com/sumargoraymond/gatling-test/blob/master/demo/sampleResult.png)
 
+# Full Video Demo
 Full video demo can be found [here](https://github.com/sumargoraymond/gatling-test/blob/master/demo/loadtest720.mov)
