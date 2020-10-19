@@ -17,7 +17,7 @@ Choose a simulation number:
      [2] LoadTestPilpres
  ```
 3. Notes: Tests for login FB and Google require currently active token & since it's a security feat from Google & FB, I need to obtain it manually and change when it is already expired.
-4. Report will be available under `reports` folder
+4. Report will be available under `reports` folder for gatling.
 
 # Demo
 
